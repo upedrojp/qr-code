@@ -2,4 +2,4 @@
 
 Projeto simples de um pequeno gerador de Qr-code
 
-Link: qr-code-upedrojp.vercel.app
+Link: https://qr-code-upedrojp.vercel.app
